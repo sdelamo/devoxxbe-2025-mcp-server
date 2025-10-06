@@ -1,7 +1,14 @@
 # Building an MCP Server with Java
 
-
 # References
+
+## Spring
+
+[Spring AI MCP](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html)
+
+[MCP Server Spring Boot Starter Documentation](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-server-boot-starter-docs.html)
+
+[Streamable-HTTP MCP Servers](https://docs.spring.io/spring-ai/reference/1.1/api/mcp/mcp-streamable-http-server-boot-starter-docs.html)
 
 ## Quarkus
 
