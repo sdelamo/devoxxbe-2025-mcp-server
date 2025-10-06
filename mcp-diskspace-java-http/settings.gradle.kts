@@ -1,0 +1,1 @@
+rootProject.name = "devoxxbe-2025-mcp-java-diskspace"
