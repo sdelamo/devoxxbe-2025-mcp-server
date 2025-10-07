@@ -2,6 +2,14 @@
 
 # References
 
+- [Build an MCP Server with Java](https://modelcontextprotocol.io/docs/develop/build-server#java)
+
+- [MCP Java SDK repository](https://github.com/modelcontextprotocol/java-sdk)
+
+## Micronaut
+
+- [Micronaut MCP](https://micronaut-projects.github.io/micronaut-mcp/snapshot/guide/)
+
 ## Spring
 
 [Spring AI MCP](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html)
