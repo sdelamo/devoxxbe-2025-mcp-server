@@ -1,5 +1,7 @@
 # Building an MCP Server with Java
 
+This repository contains demos for the talk [Building an MCP Server with Java](https://m.devoxx.com/events/dvbe25/talks/24552/build-an-mcp-server-with-java)
+
 # References
 
 - [Build an MCP Server with Java](https://modelcontextprotocol.io/docs/develop/build-server#java)
