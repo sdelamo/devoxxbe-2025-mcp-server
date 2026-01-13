@@ -9,8 +9,8 @@ repositories {
 
 dependencies {
     implementation enforcedPlatform("${quarkusPlatformGroupId}:${quarkusPlatformArtifactId}:${quarkusPlatformVersion}")
-    implementation 'io.quarkiverse.mcp:quarkus-mcp-server-sse:1.6.0'
     implementation enforcedPlatform("${quarkusPlatformGroupId}:quarkus-mcp-server-bom:${quarkusPlatformVersion}")
+    implementation 'io.quarkiverse.mcp:quarkus-mcp-server-http:1.8.0'
     implementation 'io.quarkus:quarkus-arc'
     testImplementation 'io.quarkus:quarkus-junit5'
 }
