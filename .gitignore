@@ -43,3 +43,4 @@ bin/
 /devoxxbe-2025-mcp-java-diskspace/.idea
 .idea
 .oca
+/diskspace-quarkus.log
