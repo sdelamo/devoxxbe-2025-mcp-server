@@ -15,5 +15,5 @@ application {
 }
 
 dependencies {
-    implementation("io.modelcontextprotocol.sdk:mcp:0.14.0")
+    implementation("io.modelcontextprotocol.sdk:mcp:0.17.1")
 }
