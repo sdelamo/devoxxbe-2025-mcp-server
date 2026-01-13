@@ -14,7 +14,7 @@ dependencies {
     annotationProcessor("io.micronaut:micronaut-http-validation")
     annotationProcessor("io.micronaut.serde:micronaut-serde-processor")
     implementation("io.micronaut.serde:micronaut-serde-jackson")
-    implementation("io.micronaut.mcp:micronaut-mcp-server-java-sdk:0.0.12")
+    implementation("io.micronaut.mcp:micronaut-mcp-server-java-sdk")
     compileOnly("io.micronaut:micronaut-http-client")
     runtimeOnly("ch.qos.logback:logback-classic")
     testImplementation("io.micronaut:micronaut-http-client")
