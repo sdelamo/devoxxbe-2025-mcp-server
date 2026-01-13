@@ -1,0 +1,11 @@
+{
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "localFileIdentifier" : "E9503CCE-36E8-46D7-B04E-ED5C3010AE44",
+    "preset" : "Default",
+    "template" : "new york"
+  },
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "version" : 2
+}
